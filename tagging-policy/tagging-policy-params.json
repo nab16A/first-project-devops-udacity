@@ -1,0 +1,24 @@
+{
+      "tagName": {
+        "type": "String",
+		"value": "MyTag",
+		"minLength": 3,
+		"maxLength": 11,
+		"defaultValue": "[MyTag]",
+        "metadata": {
+          "displayName": "Tag Name",
+          "description": "Name of the tag"
+        }
+      },
+	  "tagValue": {
+		"type": "String",
+		"value": "test",
+		"minLength": 3,
+		"maxLength": 11,
+		"defaultValue": "[test]",
+        "metadata": {
+          "displayName": "Tag Value",
+          "description": "Value of the tag"
+		}
+	  }
+}

@@ -1,0 +1,10 @@
+{
+	"my-client-id": "your-client-id",
+	"my-client-secret": "your-client-scret-id",
+	"my-subscription-id": "your-subscription-id",
+	"my-tenant-id": "your-tenant-id",
+	"my-rg-name": "project-rg",
+	"my-img-name": "projectPackerImage",
+	"my-loc": "northeurope",
+	"my-vm-size": "Standard_D3_v2"
+}
