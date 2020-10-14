@@ -10,10 +10,10 @@ In this project, you will create an infrastructure as code in the form of a Terr
 4.	Destroy your infrastructure
 
 #### Dependencies
-Create an Azure Account
-Install the Azure command line interface
-Install Packer
-Install Terraform
+1. Create an Azure Account
+2. Install the Azure command line interface
+3. Install Packer
+4. Install Terraform
 
 ##### Instructions
 After you have collected your dependencies, to deploy your web server in Azure:
